@@ -1,4 +1,4 @@
-# Creating-Interactive-Feedback-Forms-with-.NET-MAUI-ListView
+# Creating interactive feedback forms with .NET MAUI ListView (SfListView)
 
 This example demonstrate How to create Interactive Feedback Forms with .NET MAUI ListView.
 
